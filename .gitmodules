@@ -1,3 +1,9 @@
 [submodule "ecom-frontend-2"]
 	path = ecom-frontend-2
 	url = https://github.com/your-username/ecom-frontend-2.git
+[submodule "ecom-frontend-3"]
+	path = ecom-frontend-3
+	url = https://github.com/navinreddy20/ecom-frontend-3.git
+[submodule "ecom-frontend-4"]
+	path = ecom-frontend-4
+	url = https://github.com/navinreddy20/ecom-frontend-4.git
